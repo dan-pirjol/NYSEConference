@@ -1,5 +1,7 @@
 # NYSEConference
-Several snapshots from the recent NYSE Market Microstructure conference.
+Several snapshots from the recent NYSE Market Microstructure conference, with links to the papers.
+
+[The Listing Advantage Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5472792)
 
 ![ListingAdvantagePuzzle](https://github.com/user-attachments/assets/0f1cf2c4-85dd-45c6-a611-54762f2018f0)
 
@@ -8,6 +10,8 @@ Several snapshots from the recent NYSE Market Microstructure conference.
 ![LAP2](https://github.com/user-attachments/assets/878b6fed-a9c6-4d79-80b8-6d0af46253a4)
 
 ![LAP3](https://github.com/user-attachments/assets/0d94f46c-16d2-4fbc-86eb-0eafb1f749e5)
+
+[Measuring public and private information using quote and trade races](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4674014)
 
 ![PublicPrivateInfo](https://github.com/user-attachments/assets/3c1630a7-ec27-4bd4-b52c-f40ed5739527)
 
