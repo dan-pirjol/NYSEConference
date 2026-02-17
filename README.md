@@ -25,6 +25,8 @@ Several snapshots from the recent (Feb.9, 2026) [NYSE Market Microstructure conf
 
 ![PPI5](https://github.com/user-attachments/assets/451e92ec-b154-43fe-b902-b457088fdfa6)
 
+[Reinforcement learning in a dynamical limit order book](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630018)
+
 ![ReinforcementLearningLO](https://github.com/user-attachments/assets/2d08dc6e-7f1b-48bd-a1a1-300bfbe66cec)
 
 ![RLLO1](https://github.com/user-attachments/assets/47959237-ee24-492b-837e-9e8945d35afb)
