@@ -1,5 +1,5 @@
 # NYSEConference
-Several snapshots from the recent NYSE Market Microstructure conference, with links to the papers.
+Several snapshots from the recent (Feb.9, 2026) [NYSE Market Microstructure conference](https://beta.nyse.com/events-2026-nyse-market-microstructure-conference), with links to the papers.
 
 [The Listing Advantage Puzzle](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5472792)
 
