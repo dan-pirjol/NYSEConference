@@ -29,6 +29,10 @@ Several snapshots from the recent (Feb.9, 2026) [NYSE Market Microstructure conf
 
 ![RLLO1](https://github.com/user-attachments/assets/47959237-ee24-492b-837e-9e8945d35afb)
 
+I could not attend this talk but I include here the link to the paper.
+
+[Is 24/7 trading better?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4942934)
+
 The original signed Buttonwood agreement (1792) which laid the foundations of NYSE was not far from the conference hall.
 ![Buttonwood1](https://github.com/user-attachments/assets/d4c4417f-815a-4ce8-948e-c08e60c8a699)
 
